@@ -1,0 +1,16 @@
+#main-section .sub-menu-para {
+    color: gray;
+}
+
+#main-section .sub-menu-list ul i {
+    color: gray;
+    border: 1px solid gray;
+    border-radius: 50%;
+    padding: 5px;
+    margin-bottom: 9px;
+    margin-right: 9px;
+}
+
+#main-section .sub-menu-list ul li {
+    color: darkgray;
+}

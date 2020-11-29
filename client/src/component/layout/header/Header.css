@@ -1,0 +1,55 @@
+#header-section {
+    font-weight: bold;
+    font-size: 17px;
+    color: #10d3d9;
+}
+
+#header-section p {
+    cursor: pointer;
+    display: block;
+}
+
+#header-section .first-circle {
+    cursor: pointer;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -42px;
+    left: -153px;
+}
+
+#header-section .second-circle {
+    cursor: pointer;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -42px;
+    left: -163px;
+}
+
+#header-section .third-circle {
+    cursor: pointer;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -42px;
+    left: -115px;
+}
+
+#header-section .fourth-circle {
+    cursor: pointer;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -42px;
+    left: -137px;
+}
+
+.border-bottom {
+    border-bottom: 2px solid #87FFCD!important;
+    margin-top: 25px;
+}
